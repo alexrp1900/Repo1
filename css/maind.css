@@ -1,0 +1,86 @@
+h1 { 
+	color: #19FF00; 
+	text-align:center;
+
+} 
+body {
+	background-image: url("https://i.pinimg.com/originals/c1/59/f7/c159f71c0b24cdcdfe5ebacebe0fc56b.jpg");
+}
+table {
+
+	border: red 5px solid;
+	border-collapse: collapse;
+	margin: 0 auto;
+    text-align: left;
+}
+td {
+	border: #27265C 5px solid;
+}
+tr {
+	font-family: Times;
+	text-align:center;
+}
+a:hover{
+	color: #000000;
+}
+.Pat {
+	background:linear-gradient(135deg, #7300b2 0%,#ffffff 100%);
+	color: #FFFFFF;
+
+}
+.Hor{
+	background:linear-gradient(135deg, #7300b2 0%,#ffffff 100%);
+	color: #FFFFFF;
+}
+.Prog {
+background:linear-gradient(135deg, #302727 0%,#d2691e 100%);
+}
+td.Prog a{	
+		color: #000000;
+		text-decoration: none;
+}
+.BD{
+	background:linear-gradient(135deg, #ff4500 0%,#f0e68c 100%);	
+}
+td.BD a{
+	color: #000000;
+	text-decoration: none;
+}
+.ED{
+	background:linear-gradient(135deg, #ff0000 0%,#00d579 100%);	
+	color: #000000;
+}
+td.ED a{
+	color: #000000;
+	text-decoration: none;
+}
+.FOL{
+	background:linear-gradient(135deg, #2f4f4f 0%,#696969 100%);	
+}
+td.FOL a{
+	color: #000000;
+	text-decoration: none;
+}
+.ING{
+	background:linear-gradient(135deg, #000000 0%,#ffffff 100%);
+}
+td.ING a{
+	color: #000000;
+	text-decoration: none;
+}
+.LM {
+		background:linear-gradient(135deg, #59267b 0%,#1bcedf 100%);	
+
+}
+td.LM a{
+color: #000000;
+text-decoration: none;
+
+}
+.SI{
+	background:linear-gradient(135deg, #c0c0c0 0%,#f5d31e 100%);
+}
+td.SI a{
+	color: #000000;
+	text-decoration: none;
+}
